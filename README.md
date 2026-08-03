@@ -1,9 +1,15 @@
 <div align="center">
-  <h2>Hey there, I'm Matthew! 👋</h2>
-  <h3>Computer Science Student | Data Science</h3>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=mtthwaqn&color=green&style=flat-square" alt="Profile Views" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Matthew!+%F0%9F%91%8B;Computer+Science+Student+%7C+UST" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matthew-benedict-aquino"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:matthewaquino031026@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/matthewbenedict.aquino/"><img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mtthwaqn&color=2E2B27&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
@@ -21,15 +27,6 @@ Education: B.S. Computer Science Specializing in Data Science - University of Sa
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtthwaqn&theme=tokyonight&v=1" alt="GitHub Streak" />
-
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthew%20Benedict%20Aquino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-benedict-aquino/)
-[![GitHub](https://img.shields.io/badge/GitHub-mtthwaqn-181717?style=for-the-badge&logo=github)](https://github.com/mtthwaqn)
 
 </div>
 
