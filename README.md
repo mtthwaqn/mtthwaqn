@@ -1,15 +1,20 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4EBFF5&text=Hi,%20I'm%20Matthew!&textBg=false&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Image" />
+
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Matthew!+%F0%9F%91%8B;Computer+Science+Student+%7C+UST" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matthew-benedict-aquino"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:matthewaquino031026@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.facebook.com/matthewbenedict.aquino/"><img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.linkedin.com/in/matthew-benedict-aquino"><img src="https://img.shields.io/badge/LINKEDIN-406F91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:matthewaquino031026@gmail.com"><img src="https://img.shields.io/badge/EMAIL-406F91?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/matthewbenedict.aquino/"><img src="https://img.shields.io/badge/FACEBOOK-406F91?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </div>
 
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mtthwaqn&color=2E2B27&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mtthwaqn&color=406F91&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
@@ -26,7 +31,7 @@ Education: B.S. Computer Science Specializing in Data Science - University of Sa
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mtthwaqn&theme=whatsapp-dark2&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mtthwaqn&theme=ocean-gradient" alt="GitHub Streak" /></a>
 
 </div>
 
