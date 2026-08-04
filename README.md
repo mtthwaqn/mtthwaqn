@@ -26,6 +26,11 @@ Name: Matthew Aquino
 Location: Philippines 🇵🇭
 Education: B.S. Computer Science Specializing in Data Science - University of Santo Tomas
 ```
+## 🧑🏻‍💻 Tech Stack
+<div align="center">
+
+</div>
+
 
 ## 💻 GitHub Stats
 
