@@ -36,7 +36,7 @@ Education: B.S. Computer Science Specializing in Data Science - University of Sa
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mtthwaqn&theme=ocean-gradient" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mtthwaqn" alt="GitHub Streak" /></a>
 
 </div>
 
