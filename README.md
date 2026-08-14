@@ -27,7 +27,7 @@ Location: Philippines 🇵🇭
 Education: B.S. Computer Science Specializing in Data Science - University of Santo Tomas
 ```
 ## 🧑🏻‍💻 Tech Stack
-<div align="center">
+
 ```text
 Front-end:
 Back-end:
