@@ -29,8 +29,8 @@ Education: B.S. Computer Science Specializing in Data Science - University of Sa
 ## 🧑🏻‍💻 Tech Stack
 
 ```text
-Front-end:
-Back-end:
+Front-end: typescript
+Back-end: java python
 ```
 </div>
 
