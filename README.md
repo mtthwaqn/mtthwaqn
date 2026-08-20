@@ -43,6 +43,8 @@ Education: B.S. Computer Science Specializing in Data Science - University of Sa
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+#### Tools & Platforms
+
 </div>
 
 
